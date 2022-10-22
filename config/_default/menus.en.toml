@@ -12,7 +12,7 @@
 
 [[main]]
   name = "Events"
-  pageRef = "posts"
+  pageRef = "events"
   weight = 10
 
 # [[main]]
