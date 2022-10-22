@@ -31,14 +31,14 @@
 # the copyright notice. Configure as per the main menu above.
 
 
-[[footer]]
-  name = "Tags"
-  pageRef = "tags"
-  weight = 10
+#[[footer]]
+#  name = "Tags"
+#  pageRef = "tags"
+#  weight = 10
 
 [[footer]]
-  name = "Members"
-  pageRef = "members"
+  name = "Organizers"
+  pageRef = "organizers"
   weight = 11
 
 # [[footer]]
