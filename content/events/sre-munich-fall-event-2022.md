@@ -26,15 +26,15 @@ Please help to spread The Word! Feel free to post this event on social media usi
 
 ### Talk 1
 
-Andreas Klinger and team will give us an overview on SRE at SIXT. Starting with the overall roadmap of SRE at SIXT, Andreas will zoom into details on platform security (AMI re-rolling, Image scanning via Crowdstrike), deployments via CI Bot and service discovery, as well as the use of OPA for Kafka Authorization and Authentication.
+**Andreas Klinger and team** will give us an overview on SRE at SIXT. Starting with the overall roadmap of SRE at SIXT, Andreas will zoom into details on platform security (AMI re-rolling, Image scanning via Crowdstrike), deployments via CI Bot and service discovery, as well as the use of OPA for Kafka Authorization and Authentication.
 
 ### Talk 2
 
-Kordian Bruck will present How Google got to rolling Linux releases for Desktops. At Google, we run large production fleets that serve Google products like YouTube and Gmail. To support all our employees, including engineers, we also run a sizable corporate fleet with hundreds of thousands of devices across multiple platforms, models, and locations. To let each Googler work in the environment they are most productive in, we operate many OS-platforms including a Linux system. For a long time, our internal-facing Linux distribution, Goobuntu, was based off of Ubuntu LTS releases. In 2018 we completed a move to a rolling release model based on Debian.
+**Kordian Bruck** will present How Google got to rolling Linux releases for Desktops. At Google, we run large production fleets that serve Google products like YouTube and Gmail. To support all our employees, including engineers, we also run a sizable corporate fleet with hundreds of thousands of devices across multiple platforms, models, and locations. To let each Googler work in the environment they are most productive in, we operate many OS-platforms including a Linux system. For a long time, our internal-facing Linux distribution, Goobuntu, was based off of Ubuntu LTS releases. In 2018 we completed a move to a rolling release model based on Debian.
 
 ### Talk 3
 
-Following the theme from previous years, Ingo will recap SREcon 2022 Americas. Just like speed dating, Ingo will attempt to collapse 3 conference days into a 30 min session. The objective is to provide food for thought, and to encourage listening to the playback of interesting sessions.
+Following the theme from previous years, **Ingo Averdunk** will recap SREcon 2022 Americas. Just like speed dating, Ingo will attempt to collapse 3 conference days into a 30 min session. The objective is to provide food for thought, and to encourage listening to the playback of interesting sessions.
 
 # Legal
 
