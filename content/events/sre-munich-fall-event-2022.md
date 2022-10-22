@@ -9,14 +9,14 @@ We’re excited to announce the next Meetup of the Site Reliability Engineering 
 After many months of virtual events and meetings, this edition finally reverts to an in-person event. We will learn about the SRE practice in Munich, as well as key themes of the global SRE community. On this day, want to engage with and learn from each other, to reduce the risk of disasters (hint !).
 
 ## Agenda
-** 6:30 pm Get together with food and drinks
-** 7:00 pm Welcome to SREmuc
-** 7:10 pm Talk 1: SRE at SIXT at a glance (Andreas Klinger, SIXT)
-** 7:45 pm Short break
-** 8:00 pm Talk 2: How Google got to rolling Linux releases for Desktops (Kordian Bruck, Google)
-** 8:30 pm Talk 3: Recap SREcon Americas (Ingo Averdunk, IBM)
-** 9:00 pm Networking + Drinks
-** 9:30 pm Leave happy and inspired :)
+* 6:30 pm Get together with food and drinks
+* 7:00 pm Welcome to SREmuc
+* 7:10 pm Talk 1: SRE at SIXT at a glance (Andreas Klinger, SIXT)
+* 7:45 pm Short break
+* 8:00 pm Talk 2: How Google got to rolling Linux releases for Desktops (Kordian Bruck, Google)
+* 8:30 pm Talk 3: Recap SREcon Americas (Ingo Averdunk, IBM)
+* 9:00 pm Networking + Drinks
+* 9:30 pm Leave happy and inspired :)
 
 We would like to thank SIXT Autovermietung for sponsoring this event.
 
