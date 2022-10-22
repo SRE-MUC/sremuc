@@ -39,6 +39,15 @@ eGym GmbH, Prannerstr. 2-4, 80333 München
 * 7 minutes walk from Marienplatz (https://goo.gl/maps/EFR7WLJ3qMG2)
 * Parking: https://www.parkopedia.de/parking/locations/prannerstra%C3%9Fe_munich_germany_u281z7g6bhg/?country=de&arriving=201805031830&leaving=201805032100
 
+## Slides
+
+* [Launch event slides](/slides/SRE_Meetup_Launch_Event.pdf)
+
+## Recordings
+
+* Launch Event: https://www.youtube.com/watch?v=2lHpP6vgFDk
+* Continuous Performance Profiling: https://www.youtube.com/watch?v=6UI02MTyncc
+
 ## Legal
 
 There may be audio and video recordings of talks and we may take photographs during the event with the purpose of sharing the learnings and advertising future events. By attending the event you give your consent to be recorded.
