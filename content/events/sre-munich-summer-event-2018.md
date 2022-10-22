@@ -35,6 +35,13 @@ eGym GmbH, Prannerstr. 2-4, 80333 München
 * 7 minutes walk from Marienplatz (https://goo.gl/maps/EFR7WLJ3qMG2)
 * Parking: https://www.parkopedia.de/parking/locations/prannerstraße_munich_germany_u281z7g6bhg
 
+## Slides
+
+## Recordings
+
+* Canary Testing by Pavlos Ratis: https://www.youtube.com/watch?v=Z9Hs6XCuNV8
+* Distributed Tracing by Michael Würtinger: [https://www.youtube.com/watch?v=_iwpPHzvVC8](https://www.youtube.com/watch?v=_iwpPHzvVC8)
+
 ## Legal
 There may be audio and video recordings of the talks and we may take photographs during the event with the purpose of sharing the learnings and advertising future events. By attending the event you give your consent to be recorded. The “Tales from On-call” sessions are never recorded and the Chatham House Rule apply: https://en.wikipedia.org/wiki/Chatham_House_Rule
 
