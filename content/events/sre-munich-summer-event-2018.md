@@ -38,7 +38,7 @@ eGym GmbH, Prannerstr. 2-4, 80333 München
 ## Slides
 
 * [Canary Testing](slides/Pavlos_Ratis_canary_testing.pdf)
-* [Distributed Tracing](slides/Michael_Wuertinger_distributed_tracing.pdf
+* [Distributed Tracing](slides/Michael_Wuertinger_distributed_tracing.pdf)
 
 ## Recordings
 
