@@ -6,7 +6,7 @@ weight = 1
 rtl = false
 
 title = "SRE MUC"
-logo = "bassd_scho_circle.png"
+logo = "img/bassd_scho_circle.png"
 description = "SRE Meetup Munich"
 # copyright = "Copy, _right?_ :thinking_face:"
 
@@ -15,7 +15,7 @@ dateFormat = "2 January 2006"
 [author]
   name = "SRE Meetup Munich"
   headline = "'bassd scho' is not a strategy"
-  image = 'bassd_scho_circle.png'
+  image = 'img/bassd_scho_circle.png'
   bio = ""
   links = [
   #   { email = "mailto:hello@your_domain.com" },
