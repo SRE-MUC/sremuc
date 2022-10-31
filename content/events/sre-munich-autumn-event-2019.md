@@ -33,6 +33,9 @@ In this presentation we'll go through all the different generations of the setup
 
 We're always looking for 20-45 minute (technical) talks related to the very broad field of Site Reliability Engineering. Get in touch with the organizers if you'd like to present!
 
+## Slides
+
+* [Recap SREcon19 Europe](/slides/Recap_SREcon19_Europe_v4.pdf)
 ## Legal
 
 There may be audio and video recordings of the talks and we may take photographs during the event with the purpose of sharing the learnings and advertising future events. By attending the event you give your consent to be recorded. The “Tales from On-call” sessions are never recorded and the Chatham House Rule apply: https://en.wikipedia.org/wiki/Chatham_House_Rule
