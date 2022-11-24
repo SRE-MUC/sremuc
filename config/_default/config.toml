@@ -5,6 +5,7 @@
 baseURL = "https://muc.sre.xyz"
 theme = "blowfish"
 defaultContentLanguage = "en"
+canonifyurls = true
 
 enableRobotsTXT = true
 paginate = 20
