@@ -38,4 +38,4 @@ Following the theme from previous years, **Ingo Averdunk** will recap SREcon 202
 
 # Legal
 
-There may be audio and video recordings of the talks with the purpose of sharing the learnings and advertising future events. By attending the event you give your consent to be recorded.
+There may be audio and video recordings of the talks with the purpose of sharing the learnings and advertising future events. By attending the event you give your consent to be recorded or photographed.
