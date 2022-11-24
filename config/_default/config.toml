@@ -5,6 +5,7 @@
 baseURL = "https://muc.sre.xyz/"
 theme = "blowfish"
 defaultContentLanguage = "en"
+publishDir = "docs"
 
 enableRobotsTXT = true
 paginate = 20
