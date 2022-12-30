@@ -27,7 +27,7 @@ enableCodeCopy = true
   showRecent = true
   showRecentItems = 5
   showMoreLink = true
-  showMoreLinkDest = "/events"
+  showMoreLinkDest = "/sremuc/events"
 
 [article]
   showDate = true
