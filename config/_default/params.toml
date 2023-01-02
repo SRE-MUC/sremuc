@@ -27,7 +27,7 @@ enableCodeCopy = true
   showRecent = true
   showRecentItems = 5
   showMoreLink = true
-  showMoreLinkDest = "/sremuc/events"
+  showMoreLinkDest = "events"
 
 [article]
   showDate = true
@@ -40,7 +40,7 @@ enableCodeCopy = true
   showBreadcrumbs = true
   showDraftLabel = true
   showEdit = true
-  # editURL = "https://github.com/username/repo/"
+  editURL = "https://github.com/SRE-MUC/sremuc/"
   editAppendPath = true
   showHeadingAnchors = true
   showPagination = true
