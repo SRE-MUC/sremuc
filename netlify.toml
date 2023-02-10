@@ -1,0 +1,36 @@
+[build]
+publish = "public"
+command = "hugo --gc --minify"
+
+[context.production.environment]
+HUGO_VERSION = "0.109.0"
+HUGO_ENV = "production"
+HUGO_ENABLEGITINFO = "true"
+
+[[headers]]
+for = "/*"
+[headers.values]
+"X-Frame-Options" = "SAMEORIGIN"
+"Strict-Transport-Security" = "max-age=31536000; includeSubDomains; preload; always"
+"X-Content-Type-Options" = "nosniff"
+"X-XSS-Protection" = "1; mode=block"
+"Content-Security-Policy" = "default-src 'none'; base-uri 'self'; form-action 'none'; img-src 'self'; script-src 'self'; style-src 'self'; font-src 'self'; worker-src 'self'; object-src 'self'; media-src 'self'; frame-ancestors 'none'; manifest-src 'self'; connect-src 'self'"
+"Referrer-Policy" = "strict-origin"
+"Feature-Policy" = "geolocation 'none';midi 'none'; sync-xhr 'none';microphone 'none';camera 'none';magnetometer 'none';gyroscope 'none';fullscreen 'self';payment 'none';"
+"Expect-CT" = "max-age=604800"
+
+[[headers]]
+for = "/.well-known/openpgpkey/*"
+[headers.values]
+"Content-Type" = "application/octet-stream"
+"Access-Control-Allow-Origin" = "*"
+
+[[headers]]
+for = "/*.pdf"
+[headers.values]
+"Content-Security-Policy" = "default-src 'none'; base-uri 'self'; form-action 'none'; img-src 'self'; script-src 'self'; style-src 'unsafe-inline'; font-src 'self'; worker-src 'self'; object-src 'unsafe-inline'; media-src 'self'; frame-ancestors 'none'; manifest-src 'self'; connect-src 'self'"
+
+[[headers]]
+for = "/*.(css|ico|png|js|webmanifest)"
+[headers.values]
+"Cache-Control" = "max-age=604800"
