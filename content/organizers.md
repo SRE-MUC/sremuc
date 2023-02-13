@@ -1,4 +1,8 @@
-# Organizers
+---
+title: "Organizers"
+date: 2023-02-13T18:30:00+02:00
+draft: false
+---
 
 ## Active Organizers
 
