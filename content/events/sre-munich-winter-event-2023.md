@@ -1,6 +1,6 @@
 ---
 title: "SRE Munich Winter Event 2023"
-date: 2023-02-13T18:30:00+02:00
+date: 2023-02-13T07:30:00+02:00
 draft: false
 ---
 
