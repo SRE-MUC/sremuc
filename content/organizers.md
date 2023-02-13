@@ -11,7 +11,7 @@
 ### Kordian Bruck
 
 * Twitter: https://twitter.com/kordianbruck
-* LinkedIn: https://de.linkedin.com/in/kordianbruc
+* LinkedIn: https://de.linkedin.com/in/kordianbruck
 
 ### Christian Rebischke
 
