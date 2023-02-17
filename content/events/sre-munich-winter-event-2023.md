@@ -37,6 +37,12 @@ You can reach the organizers at muc@sre.xyz
 
 ## Abstracts
 
+### Talk 0
+
+Kordian Bruck (Google) and Ingo Averdunk (IBM) introduced the location and topics for today.
+
+Slides: [/slides/intro.pdf](/slides/2023_02/intro.pdf)
+
 ###  Talk 1
 
 Building a reliable and maintainable platform is hard, even if you have a large amount of people and resources available. 
@@ -46,6 +52,8 @@ tackle, in order to make the platform operable for your customer.
 
 Learn from real project stories and receive practical hints for using CNCF products for a ready-to-operate platform.
 
+Slides: [/slides/KickOff.pdf](/slides/2023_02/KickOff.pdf)
+
 ### Talk 2
 
 Organizations that build and deploy cloud-native software are faced with the challenge of building and maintaining infrastructure for 
@@ -53,9 +61,35 @@ the development and testing of their software. Development ergonomics and testin
 mirrord “mirrors” the environment of a Kubernetes cluster to local processes in real-time. We’ll explore how organizations can employ mirrord to 
 give their developers the best cloud development experience, all while simplifying the development infrastructure.
 
+Slides: [/slides/mirrord.pdf](/slides/2023_02/mirrord.pdf)
+
 ### Talk 3
 
 A recap of SREcon 2022 Europe.
+
+Slides: [/slides/recap.pdf](/slides/recap.pdf)
+
+## Photos
+
+![photos](/photos/2023_02/IMG_6312.JPEG)
+![photos](/photos/2023_02/IMG_6314.JPEG)
+![photos](/photos/2023_02/IMG_6315.JPEG)
+![photos](/photos/2023_02/IMG_6316.JPEG)
+![photos](/photos/2023_02/IMG_6317.JPEG)
+![photos](/photos/2023_02/IMG_6318.JPEG)
+![photos](/photos/2023_02/IMG_6319.JPEG)
+![photos](/photos/2023_02/IMG_6320.JPEG)
+![photos](/photos/2023_02/IMG_6321.JPEG)
+![photos](/photos/2023_02/IMG_6322.JPEG)
+![photos](/photos/2023_02/IMG_6323.JPEG)
+![photos](/photos/2023_02/IMG_6324.JPEG)
+![photos](/photos/2023_02/IMG_6325.JPEG)
+![photos](/photos/2023_02/IMG_6326.JPEG)
+![photos](/photos/2023_02/IMG_6327.JPEG)
+![photos](/photos/2023_02/IMG_6328.JPEG)
+![photos](/photos/2023_02/IMG_6329.JPEG)
+![photos](/photos/2023_02/IMG_6330.JPEG)
+![photos](/photos/2023_02/IMG_6331.JPEG)
 
 ## Participation
 
