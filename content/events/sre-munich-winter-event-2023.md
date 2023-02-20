@@ -41,7 +41,7 @@ You can reach the organizers at muc@sre.xyz
 
 Kordian Bruck (Google) and Ingo Averdunk (IBM) introduced the location and topics for today.
 
-Slides: [/slides/intro.pdf](/slides/2023_02/intro.pdf)
+Slides: [/slides/KickOff.pdf](/slides/2023_02/KickOff.pdf)
 
 ###  Talk 1
 
@@ -52,7 +52,7 @@ tackle, in order to make the platform operable for your customer.
 
 Learn from real project stories and receive practical hints for using CNCF products for a ready-to-operate platform.
 
-Slides: [/slides/KickOff.pdf](/slides/2023_02/KickOff.pdf)
+Slides: [/slides/building_reliable_and_maintainable_platform.pdf](/slides/2023_02/building_reliable_and_maintainable_platforms.pdf)
 
 ### Talk 2
 
@@ -67,7 +67,7 @@ Slides: [/slides/mirrord.pdf](/slides/2023_02/mirrord.pdf)
 
 A recap of SREcon 2022 Europe.
 
-Slides: [/slides/recap.pdf](/slides/recap.pdf)
+Slides: [/slides/recap.pdf](/slides/2023_02/recap.pdf)
 
 ## Photos
 
