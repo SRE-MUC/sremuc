@@ -67,7 +67,6 @@ using the open source projects Crossplane and Flux.
 ![photos](/photos/2023_06/PXL_20230613_171247632.jpg)
 ![photos](/photos/2023_06/PXL_20230613_173144993.jpg)
 ![photos](/photos/2023_06/PXL_20230613_174145532.jpg)
-![photos](/photos/2023_06/PXL_20230613_183123795.jpg)
 ![photos](/photos/2023_06/PXL_20230613_183126674.jpg)
 
 ## Participation
