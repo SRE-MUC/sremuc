@@ -39,6 +39,8 @@ dive deeper into the organization of the event, from identifying incidents to
 run, execution and logistics to disaster recovery. Lastly, we will have a look
 at results and feedback we have received.
 
+Slides [/slides/2023_06/gamedays.pdf](/slides/2023_06/gamedays.pdf)
+
 ### Talk 2
 
 Event-driven architecture (EDA) is a common pattern in building modern
@@ -55,6 +57,17 @@ In this talk, we are going to present what the typical challenges of a Platform
 team are. We will highlight the importance of self-service GitOps in a banking
 environment, and will explain how these principles are implemented at DKB,
 using the open source projects Crossplane and Flux.
+
+## Photos
+
+![photos](/photos/2023_06/PXL_20230613_164552026.jpg)
+![photos](/photos/2023_06/PXL_20230613_170241829.MP.jpg)
+![photos](/photos/2023_06/PXL_20230613_170714931.jpg)
+![photos](/photos/2023_06/PXL_20230613_170954448.jpg)
+![photos](/photos/2023_06/PXL_20230613_171247632.jpg)
+![photos](/photos/2023_06/PXL_20230613_173144993.jpg)
+![photos](/photos/2023_06/PXL_20230613_174145532.jpg)
+![photos](/photos/2023_06/PXL_20230613_183126674.jpg)
 
 ## Participation
 
