@@ -1,5 +1,5 @@
 ---
-title: "SRE Munich Fall Event 2022"
+title: "SRE Munich at Sixt 2022"
 date: 2022-10-13T18:30:00+02:00
 draft: false
 ---

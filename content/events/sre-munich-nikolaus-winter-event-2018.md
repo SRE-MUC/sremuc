@@ -1,5 +1,5 @@
 ---
-title: "SRE Munich Nikolaus Winter Event 2018"
+title: "SRE Munich at HolidayCheck 2018"
 date: 2018-12-06T19:00:00+02:00
 draft: false
 ---

@@ -1,5 +1,5 @@
 ---
-title: "SRE Munich Summer Event 2019"
+title: "SRE Munich at EGYM 2019"
 date: 2019-06-27T18:30:00+02:00
 draft: false
 ---
