@@ -1,5 +1,5 @@
 ---
-title: "SRE Munich Summer Fall Event 2023"
+title: "SRE Munich at Google 2023"
 date: 2023-09-07T18:01:53Z
 draft: false
 ---
@@ -38,14 +38,28 @@ You can reach the organizers at muc@sre.xyz (Ideas, Presentations, Comments)
 
 Postmortems are one of the key tools of SREs to not repeat the same mistakes and learn from past incidents. This introductory talk explains how to write a good Postmortem that can strengthen company culture when mistakes happen. Martin has been working in SRE at Google for many years now and will give you an insight into how Google does Postmortems.
 
+Slides: [Post Mortem Culture at Google](/slides/2023_09/2023_09_google.pdf)
+
 ### Eliminating human error using self-service GitOps with Crossplane
 
 In this talk, we are going to present what the typical challenges of a Platform team are. We will highlight the importance of self-service GitOps in a banking environment, and will explain how these principles are implemented at DKB, using the open source projects Crossplane and Flux.
 Speaker
 
+Slides: [Eliminating human error using self-service GitOps with Crossplane](/slides/2023_09/2023_09_crossplane.pdf)
+
 ### Open Discussion
 
 Following the theme we started in our last Meetup, we want to discuss certain topics that the SRE community might be interested in. Examples could be the recent license change in Terraform, or the application of Generative AI in the field of Operations. We look forward to engaging in insightful conversations, fostering mutual learning, and collectively expanding our knowledge base.
+
+Slides: [Meetup Intro & Open Discussion](/slides/2023_09/2023_09_meetup.pdf)
+
+## Photos
+
+![IMG_20230927_104631512.jpg](/photos/2023_09/IMG_20230927_104631512.jpg)
+![IMG_20230927_104647576.jpg](/photos/2023_09/IMG_20230927_104647576.jpg)
+![IMG_20230927_104712416.jpg](/photos/2023_09/IMG_20230927_104712416.jpg)
+![IMG_20230927_104620601.jpg](/photos/2023_09/IMG_20230927_104620601.jpg)
+![1695820864186.jpeg](/photos/2023_09/1695820864186.jpeg)
 
 ## Legal
 There may be audio and video recordings of the talks with the purpose of sharing the learnings and advertising future events. By attending the event you give your consent to be recorded.
