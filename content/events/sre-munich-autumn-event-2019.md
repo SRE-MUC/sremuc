@@ -1,5 +1,5 @@
 ---
-title: "SRE Munich Autumn Event 2019"
+title: "SRE Munich at Google 2019"
 date: 2019-11-28T18:30:00+02:00
 draft: false
 ---

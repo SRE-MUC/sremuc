@@ -1,5 +1,5 @@
 ---
-title: "SRE Munich Spring Event 2023"
+title: "SRE Munich at Netlight 2023"
 date: 2023-05-23T16:41:03+02:00
 draft: false
 ---
