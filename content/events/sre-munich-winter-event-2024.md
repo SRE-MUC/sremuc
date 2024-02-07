@@ -26,14 +26,6 @@ You can reach the organizers at muc@sre.xyz (Ideas, Presentations, Comments)
 * 9:00 pm Leave happy and inspired :)
 
 
-
-
-
-
-
-
-
-
 ## Abstracts
 
 ### Talk 1: Philosophy of Observability
