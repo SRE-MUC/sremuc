@@ -47,7 +47,7 @@ We'll address technical aspects, architectural considerations, security implicat
 
 About the Speaker: Bernard's professional career has been growing at an intersection of networking, SW engineering and infra-engineering fields. He used to run an ISP (Internet Service Provider) company as a hobby and that's where his love for the Linux ecosystem sparked. This has naturally evolved through DevOps-like roles into cloud platform engineering nowadays. He is leading a team of Kubernetes consultants with a focus on on-prem and hybrid-cloud platforms.
 
-Slides: [/slides/recap.pdf](/slides/Navigating_Nuances_GitOps_Enterprise.pdf)
+Slides: [Navigating Nuances of GitOps](/slides/Navigating_Nuances_GitOps_Enterprise.pdf)
 
 ## Photos
 
