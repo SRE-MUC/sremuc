@@ -51,7 +51,12 @@ Slides: [Navigating Nuances of GitOps](/slides/Navigating_Nuances_GitOps_Enterpr
 
 ## Photos
 
-None yet.
+![](/photos/2024_01/PXL_20240131_164508987.jpg)
+![](/photos/2024_01/PXL_20240131_180311738.MP.jpg)
+![](/photos/2024_01/PXL_20240131_180609910.MP.jpg)
+![](/photos/2024_01/PXL_20240131_185442400.jpg)
+![](/photos/2024_01/PXL_20240131_190616946.MP.jpg)
+![](/photos/2024_01/PXL_20240131_201355676.MP.jpg)
 
 ## Participation
 
