@@ -1,5 +1,5 @@
 ---
-title: SRE Munich at Jambit 2024"
+title: "SRE Munich at Jambit 2024"
 date: 2024-03-19T12:44:21Z
 draft: false
 ---
@@ -23,7 +23,7 @@ You can reach the organizers at muc@sre.xyz (Ideas, Presentations, Comments)
 
 ## Abstracts
 
-### Simplicity in the Source (Markus Teich, Google)
+### Talk 1: Simplicity in the Source (Markus Teich, Google)
 
 Markus has been an SRE and software engineer at Google for close to 7 years.
 In his open source endeavours he learned a few things about running open source software and how code simplicity can help with long term maintenance.
@@ -35,7 +35,7 @@ In this talk he'll share some of his observations on how code can be easier to u
 Working on the [open source project Tremor](https://www.tremor.rs/) - an event processing system - Mario has gathered some good knowledge about using rust to write production systems that can scale.
 He is going to give us valuable insights when Rust is a great language to use and where it can possibly win over the hearts of dedicated Gophers.
 
-### Recap SREcon Americas (Ingo Averdunk, IBM)
+### Talk 3: Recap SREcon Americas (Ingo Averdunk, IBM)
 
 Following the theme from previous years, Ingo will recap SREcon 2024 Americas. Just like speed dating, Ingo will attempt to collapse 3 conference days into a 30-minute session.
 The objective is to provide food for thought and to encourage listening to the playback of interesting sessions.
