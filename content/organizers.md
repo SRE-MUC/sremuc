@@ -1,5 +1,7 @@
 # Organizers
 
+Looking for a way to contact us? Write us an email: [muc@sre.xyz](mailto:muc@sre.xyz)
+
 ## Active Organizers
 
 ### Ingo Averdunk
@@ -18,6 +20,7 @@
 * Twitter: https://twitter.com/sh1bumi
 * LinkedIn: https://linkedin.com/in/shibumi
 * Blog: https://shibumi.dev
+* E-Mail: [chris@shibumi.dev](mailto:chris@shibumi.dev)
 
 ## Alumni
 
