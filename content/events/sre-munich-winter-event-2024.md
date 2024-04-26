@@ -40,6 +40,8 @@ In this presentation we are going to dive into the interplay between OpenTelemet
 
 About the speaker: Nadya Shakhat, a Cloud Architect at Nordcloud and a certified GCP Professional Architect and Data Engineer, brings a decade of experience in software development, DevOps and observability. Her journey includes significant contributions to open-source projects like OpenStack, particularly as a core contributor to the OpenStack Telemetry project. At Nordcloud and IBM, Nadya focuses on crafting scalable data and observability solutions for diverse clientele, leveraging her deep expertise in monitoring and cloud technologies.
 
+Slides: [Navigating Observability with OTel and Grafana](/slides/otel.pdf)
+
 ### Talk 3: Navigating the Nuances of GitOps in an Enterprise Environment
 
 GitOps has emerged as a leading approach for infrastructure management, but its implementation can be challenging due to the diversity of tools, legacy systems, and organizational factors involved. This talk will delve into the common pitfalls and complexities of large-scale GitOps deployments, exploring strategies to streamline operations without compromising flexibility.
