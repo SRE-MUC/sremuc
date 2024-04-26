@@ -48,7 +48,15 @@ Slides: [Recap SRECon Americas](/slides/2024_04/srecon24.pdf)
 
 ## Photos
 
-Not yet.
+![](/photos/2024_04/PXL_20240425_175739640.jpg)
+![](/photos/2024_04/PXL_20240425_163809361.jpg)
+![](/photos/2024_04/PXL_20240425_163843578.jpg)
+![](/photos/2024_04/PXL_20240425_163803511.jpg)
+![](/photos/2024_04/PXL_20240425_171121093.jpg)
+![](/photos/2024_04/PXL_20240425_180417000.jpg)
+![](/photos/2024_04/PXL_20240425_180756849.jpg)
+![](/photos/2024_04/PXL_20240425_185653901.MP.jpg)
+
 
 ## Participation
 
