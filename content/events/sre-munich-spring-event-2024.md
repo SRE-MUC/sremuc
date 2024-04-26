@@ -30,15 +30,21 @@ In his open source endeavours he learned a few things about running open source 
 As an SRE at Google Markus has looked through many different types of code bases across various languages.
 In this talk he'll share some of his observations on how code can be easier to understand and how that can help with incident management and maintenance.
 
+Slides: [Simplicity in the Source](/slides/2024_04/simplicity.pdf)
+
 ### Talk 2: Enough Go, what about Rust? (Mario Ortiz Manero, Lyft)
 
 Working on the [open source project Tremor](https://www.tremor.rs/) - an event processing system - Mario has gathered some good knowledge about using rust to write production systems that can scale.
 He is going to give us valuable insights when Rust is a great language to use and where it can possibly win over the hearts of dedicated Gophers.
 
+Slides: [Enough Go, what about Rust?](/slides/2024_04/rust.pdf)
+
 ### Talk 3: Recap SREcon Americas (Ingo Averdunk, IBM)
 
 Following the theme from previous years, Ingo will recap SREcon 2024 Americas. Just like speed dating, Ingo will attempt to collapse 3 conference days into a 30-minute session.
 The objective is to provide food for thought and to encourage listening to the playback of interesting sessions.
+
+Slides: [Recap SRECon Americas](/slides/2024_04/srecon24.pdf)
 
 ## Photos
 
