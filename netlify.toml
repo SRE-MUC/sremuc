@@ -3,12 +3,12 @@ publish = "public"
 command = "hugo --gc --minify"
 
 [context.production.environment]
-HUGO_VERSION = "0.109.0"
+HUGO_VERSION = "0.126.2"
 HUGO_ENV = "production"
 HUGO_ENABLEGITINFO = "true"
 
 [context.deploy-preview.environment]
-HUGO_VERSION = "0.109.0"
+HUGO_VERSION = "0.126.2"
 HUGO_ENABLEGITINFO = "true"
 
 [[headers]]
