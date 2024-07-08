@@ -1,6 +1,6 @@
 ---
 title: "SRE Munich at Celonis 2024"
-date: 2024-07-08T12:44:21Z
+date: 2024-07-07T07:30:00+02:00
 draft: false
 ---
 
