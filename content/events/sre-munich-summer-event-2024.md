@@ -44,7 +44,15 @@ Slides: Not yet, stay tuned :)
 
 ## Photos
 
-Not yet, stay tuned :)
+![photo 1](/photos/2024_07/IMG_1596.JPEG)
+![photo 2](/photos/2024_07/IMG_1597.JPEG)
+![photo 3](/photos/2024_07/IMG_1598.JPEG)
+![photo 4](/photos/2024_07/IMG_1600.JPEG)
+![photo 5](/photos/2024_07/IMG_1607.JPEG)
+![photo 6](/photos/2024_07/IMG_1609.JPEG)
+![photo 7](/photos/2024_07/IMG_1614.JPEG)
+![photo 8](/photos/2024_07/IMG_1618.JPEG)
+![photo 9](/photos/2024_07/20240710_182135.jpg)
 
 ## Participation
 
