@@ -28,7 +28,7 @@ How do you upgrade thousands of similar but independent stateful applications ru
 
 [Michael Lex](https://www.linkedin.com/in/michael-lex-a84a9b1b8/) is a seasoned engineer who has worked in various fields ranging from consulting to fast-paced startups. He currently works as an Engineering Manager at Clickhouse where he and his team work on friction-less deployments of stateful applications for thousands of customers.
 
-Slides: Not yet, stay tuned :)
+Slides: [Clickhouse](/slides/2024_07/clickhouse.pdf)
 
 ### Talk 2: Lessons learned from 15 years DevOps (Paul Stack, System Initiative)
 
@@ -40,7 +40,7 @@ Once you see what it’s possible to achieve, you won’t want to settle any lon
 
 [Paul Stack](https://www.linkedin.com/in/stack72/) is an infrastructure coder and has spoken at various events throughout the world about his passion for continuous integration, continuous delivery and good operational procedures and why they should be part of what developers and system administrators do on a day to day basis. He believes that reliably delivering software is more important than its development. Paul’s passions are the DevOps and Continuous Delivery movements and how they help the entire business and its customers.
 
-Slides: Not yet, stay tuned :)
+Slides: [It's time to rebuild DevOps](/slides/2024_07/it_is_time_to_rebuild_devops.pdf)
 
 ## Photos
 
