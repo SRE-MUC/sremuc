@@ -1,5 +1,5 @@
 ---
-title: "SRE Munich Wiesn Event 2024"
+title: "SRE Munich at nordcloud 2024"
 date: 2024-09-24T12:59:12Z
 draft: false
 ---
