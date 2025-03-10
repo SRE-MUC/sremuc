@@ -1,6 +1,6 @@
 ---
 title: "SRE Munich at Netlight 2025"
-date: 2025-03-10T12:00:00Z
+date: 2025-03-09T12:00:00Z
 draft: false
 ---
 
