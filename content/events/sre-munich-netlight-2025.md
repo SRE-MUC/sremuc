@@ -1,16 +1,17 @@
 ---
 title: "SRE Munich at Netlight 2025"
-date: 2025-03-10T12:00:00Z
+date: 2025-03-09T12:00:00Z
 draft: false
 ---
 
-This time around we will be meeting at Netlight right in the heart of Munich. Let's all meet up, talk about reliability, exchange ideas and see where we can continue to learn on our journey as site reliability engineers (and folks that aspire to be one!).
+This time around we will be meeting at Netlight right in the heart of Munich (Monday, April 14, 2025
+6:00 PM to 9:00 PM CEST). Let's all meet up, talk about reliability, exchange ideas and see where we can continue to learn on our journey as site reliability engineers (and folks that aspire to be one!).
 
 Meetups are about engaging within the community, so we are looking to everyone to share ideas and learn to ultimately to reduce the risk of disasters.
 
 Please help to spread The Word! Feel free to share this event on social media using the #sremuc hashtag!
 
-You can reach the organizers at muc@sre.xyz (Ideas, Presentations, Comments)
+You can reach the organizers at muc@sre.xyz (Ideas, Presentations, Comments).
 
 ## Agenda
 
