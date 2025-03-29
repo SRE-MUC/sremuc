@@ -35,6 +35,13 @@ Piotr will provide a brief intro of the BMW Standard Cloud Platform for AWS, a s
 
 Piotr Hajdas is Project Lead Internal Cloud Platform (AWS) at BMW AG
 
+### Photos
+
+![photo 1](/photos/2024_09/meetup1.jpg)
+![photo 2](/photos/2024_09/meetup2.jpg)
+![photo 3](/photos/2024_09/meetup3.jpg)
+![photo 4](/photos/2024_09/view.jpg)
+
 ## Participation
 
 We're always looking for 20-35 minute (technical) talks related to the very broad field of Site Reliability Engineering. Get in touch with the organizers if you'd like to present!
