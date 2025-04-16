@@ -31,6 +31,8 @@ Let's explore how to construct vendor-agnostic Generative AI solutions, such as 
 
 Tim Fischer (Senior Consultant, Netlight) is a Senior Consultant at Netlight, specializing in cloud, infrastructure and Kubernetes. He helps clients navigate the GenAI landscape, providing insights into creating flexible and secure AI solutions at scale.
 
+Slides: [Own your genAI workloads](/slides/2025_04/own_ai.pdf)
+
 ### Talk 2: Introducing a product mindset to an infrastructure platform
 
 You are working on a platform providing infrastructure services for developer teams, but how can you show the value it brings to higher management? This talk will focus on how the online bank DKB introduced a product mindset to its infrastructure platform to be able to solve just this problem. We will dive deeper into:
@@ -43,6 +45,8 @@ Stéphane Di Cesare (Platform Engineer/Architect, DKB) is a Senior Platform Engi
 
 Learn more about the speaker on LinkedIn: [https://www.linkedin.com/in/sdicesare/](https://www.linkedin.com/in/sdicesare/)
 
+Slides: [Introducing a product minset to an infrastructure platform](/slides/2025_04/platform.pdf)
+
 ### Talk 3: SREBot
 
 A talk around SREBot, the open-source AI project Daniel is spearheading
@@ -52,6 +56,8 @@ Daniel Paulus (VP Of Engineering, Checkly) is working with super cool people at 
 
 Learn more about the speaker on LinkedIn: [https://www.linkedin.com/in/daniel-paulus-checkly/](https://www.linkedin.com/in/daniel-paulus-checkly/)
 
+Slides: [SREBot](/slides/2025_04/srebot.pdf)
+
 ### Talk 4: Running Kubernetes clusters across multiple clouds for large automotive companies
 
 So you want to run Kubernetes clusters at all big automotive?
@@ -60,6 +66,20 @@ This talk is about Applied Intuition's experience in running our simulation soft
 Steve Wolter (Production Engineer, Applied Intuition) is passionate about making infrastructure simple for 12 years in the industry, ever since trying to make microscopes work well without the right infrastructure. He is currently Production Engineer at Applied Intuition Munich, former Senior Site Reliability Engineer at Google Corp Eng SRE and Staff Software Engineer at Intrinsic (an Alphabet Robotics company).
 
 Learn more about the speaker on LinkedIn: https://www.linkedin.com/in/steve-wolter-84587355/
+
+Slides: [Running Kubernetes clusters across multiple clouds for large automotive companies](/slides/2025_04/many_cloud.pdf)
+
+## Photos
+
+![photo1](/photos/2025_04/photo1.jpg)
+![photo2](/photos/2025_04/photo2.jpg)
+![photo3](/photos/2025_04/photo3.jpg)
+![photo4](/photos/2025_04/photo4.jpg)
+![photo5](/photos/2025_04/photo5.jpg)
+![photo6](/photos/2025_04/photo6.jpg)
+![photo7](/photos/2025_04/photo7.jpg)
+![photo8](/photos/2025_04/photo8.jpg)
+![photo9](/photos/2025_04/photo9.jpg)
 
 ## Participation
 
